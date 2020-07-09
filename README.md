@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**nicanor/nicanor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Nicanor Perera and I’m a web developer.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working for [Brandkit](https://www.brandkit.io/) as an Elixir and Rails developer.
+- 💬 I share my opinions in [my personal website](http://nicanor.github.io/).
+- 📫 How to reach me: nicanor@hey.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun facts: Vegan. Loves animals. Likes coffee. Enjoys reading.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hola! 👋
+
+Mi nombre es Nicanor Perera y soy un programador web.
+
+- 🔭 Trabajo en [Brandkit](https://www.brandkit.io/) como programador Elixir y Rails.
+- 💬 Comparto mis opiniones es [mi sitio web personal](http://nicanor.github.io/).
+- 📫 Podés contactarme por acá: nicanor@hey.com
+- 😄 Pronombre: Él
+- ⚡ Fun facts: Vegano. Amante de los animales. Disfruto de tomar café y leer.
