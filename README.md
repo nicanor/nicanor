@@ -13,7 +13,7 @@ My name is Nicanor Perera and I’m a web developer.
 Mi nombre es Nicanor Perera y soy un programador web.
 
 - 🔭 Trabajo en [Brandkit](https://www.brandkit.io/) como programador Elixir y Rails.
-- 💬 Comparto mis opiniones es [mi sitio web personal](http://nicanor.github.io/).
+- 💬 Comparto mis opiniones en [mi sitio web personal](http://nicanor.github.io/).
 - 📫 Podés contactarme por acá: nicanor@hey.com
 - 😄 Pronombre: Él
 - ⚡ Fun facts: Vegano. Amante de los animales. Disfruto de tomar café y leer.
